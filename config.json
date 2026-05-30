@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdync",
+        "uuid": 5347848,
+        "checksum": "oaxig5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
